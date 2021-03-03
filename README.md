@@ -1,5 +1,5 @@
 # CheckBoxList.Mvc.Core
- NET 5.x port of  Stephen Zeng's CheckBoxList.Mvc for .NET Framework 4.x
+ NET 5.x (.NET Core) port of  Stephen Zeng's CheckBoxList.Mvc for .NET Framework 4.x
 
  CheckBoxList.Mvc.Core
 ================
