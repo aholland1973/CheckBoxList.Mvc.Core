@@ -1,0 +1,11 @@
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\CheckBoxList.Mvc.Core.deps.json
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\CheckBoxList.Mvc.Core.dll
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\ref\CheckBoxList.Mvc.Core.dll
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\CheckBoxList.Mvc.Core.pdb
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.AssemblyInfoInputs.cache
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.AssemblyInfo.cs
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.csproj.CoreCompileInputs.cache
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.dll
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\ref\CheckBoxList.Mvc.Core.dll
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.pdb

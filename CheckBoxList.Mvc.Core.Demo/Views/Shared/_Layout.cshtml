@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CheckBoxList.Mvc.Core.Demo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+
+    </header>
+    <div style="background: #f4f4f4; padding: 30px 0; border-bottom: 1px solid #ddd;">
+        <div class="container">
+            <h1>
+                <b>
+                    <a href="@Url.Action("Index","Home")" style="color: #000;">CheckBoxList.Mvc.Core</a>
+                </b>
+            </h1>
+            <h3>Extension methods for CheckBoxList in ASP.NET Core 5.x MVC</h3>
+            <h4>@Html.Encode("@Html.CheckBoxList(), @Html.CheckBoxListFor(), @Html.EnumCheckBoxList(), @Html.EnumCheckBoxListFor()")</h4>
+        </div>
+    </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <i class="glyphicon glyphicon-paperclip"></i>
+            CheckBoxList.Mvc.Core.Demo  | zeng.stephen@gmail.com (original .NET Framework 4.x version) / a.holland@bolton.ac.uk (.NET 5.x port)
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This package includes the extension methods for CheckBoxList in ASP.NET MVC, offering the similar way of handling the model binding as the other ASP.NET MVC types. This package is a straight .NET 5.x port of CheckBoxList.Mvc for .NET Framework 4.x by Stephen Zeng and as such offers the same functionality and usage, just for .NET 5.x</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

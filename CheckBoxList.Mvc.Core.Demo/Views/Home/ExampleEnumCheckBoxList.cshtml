@@ -1,0 +1,32 @@
+﻿@using CheckBoxList.Mvc.Core.Html
+@model IList<CheckBoxList.Mvc.Core.Demo.Models.ExtremeSport>
+
+@{
+    Layout = "~/Views/Shared/_ExampleLayout.cshtml";
+}
+
+<h3 class="page-header">
+    <b>Example - @Html.Encode("@Html.EnumCheckBoxList()")</b>
+</h3>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Are you interested in any of the following sports?</label>
+        <div style="margin-top: 15px;">
+            @Html.EnumCheckBoxList("ExtremeSports", Model)
+        </div>
+    </div>
+
+    <div style="margin: 35px 0;">
+        <button type="submit" class="btn btn-outline-dark">Submit</button>
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.SelectedOptionsText))
+{
+    <div class="alert alert-info">
+        Cool man! Your have selected:
+        <b>@ViewBag.SelectedOptionsText.</b>
+    </div>
+}

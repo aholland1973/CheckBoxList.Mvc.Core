@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CheckBoxList.Mvc.Core/1.0.0": {
+        "runtime": {
+          "CheckBoxList.Mvc.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckBoxList.Mvc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

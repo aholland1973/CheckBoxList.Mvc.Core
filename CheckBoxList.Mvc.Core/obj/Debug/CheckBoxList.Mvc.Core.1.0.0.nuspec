@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CheckBoxList.Mvc.Core</id>
+    <version>1.0.0</version>
+    <authors>CheckBoxList.Mvc.Core</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package includes the extension methods for CheckBoxList in ASP.NET MVC, offering the similar way of handling the model binding as the other ASP.NET MVC types. This package is a straight .NET 5.x port of CheckBoxList.Mvc for .NET Framework 4.x by Stephen Zeng and as such offers the same functionality and usage, just for .NET 5.x</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\CheckBoxList.Mvc.Core.dll" target="lib\net5.0\CheckBoxList.Mvc.Core.dll" />
+  </files>
+</package>

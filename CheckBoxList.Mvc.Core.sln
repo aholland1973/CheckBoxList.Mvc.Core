@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBoxList.Mvc.Core", "CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core.csproj", "{3AAE3247-8565-4F82-A04C-1429E1E58ACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBoxList.Mvc.Core.Demo", "CheckBoxList.Mvc.Core.Demo\CheckBoxList.Mvc.Core.Demo.csproj", "{C42E4608-08B2-4FE1-B675-1D6A02074417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAE3247-8565-4F82-A04C-1429E1E58ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAE3247-8565-4F82-A04C-1429E1E58ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAE3247-8565-4F82-A04C-1429E1E58ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAE3247-8565-4F82-A04C-1429E1E58ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42E4608-08B2-4FE1-B675-1D6A02074417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42E4608-08B2-4FE1-B675-1D6A02074417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42E4608-08B2-4FE1-B675-1D6A02074417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42E4608-08B2-4FE1-B675-1D6A02074417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6275D9-A451-46C5-83CC-E04F2D9D7D6F}
+	EndGlobalSection
+EndGlobal
