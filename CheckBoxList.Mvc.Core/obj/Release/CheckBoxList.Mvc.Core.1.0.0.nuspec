@@ -5,6 +5,8 @@
     <version>1.0.0</version>
     <authors>CheckBoxList.Mvc.Core</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <projectUrl>https://github.com/aholland1973/CheckBoxList.Mvc.Core</projectUrl>
     <description>This package includes the extension methods for CheckBoxList in ASP.NET MVC, offering the similar way of handling the model binding as the other ASP.NET MVC types. This package is a straight .NET 5.x port of CheckBoxList.Mvc for .NET Framework 4.x by Stephen Zeng and as such offers the same functionality and usage, just for .NET 5.x</description>
     <releaseNotes>Initial release</releaseNotes>
@@ -19,5 +21,6 @@
   </metadata>
   <files>
     <file src="C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Release\net5.0\CheckBoxList.Mvc.Core.dll" target="lib\net5.0\CheckBoxList.Mvc.Core.dll" />
+    <file src="C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\LICENSE" target="LICENSE" />
   </files>
 </package>
