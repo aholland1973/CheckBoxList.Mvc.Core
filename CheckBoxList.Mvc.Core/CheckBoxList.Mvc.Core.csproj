@@ -5,6 +5,11 @@
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>This package includes the extension methods for CheckBoxList in ASP.NET MVC, offering the similar way of handling the model binding as the other ASP.NET MVC types. This package is a straight .NET 5.x port of CheckBoxList.Mvc for .NET Framework 4.x by Stephen Zeng and as such offers the same functionality and usage, just for .NET 5.x</Description>
+    <PackageProjectUrl>https://github.com/aholland1973/CheckBoxList.Mvc.Core</PackageProjectUrl>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

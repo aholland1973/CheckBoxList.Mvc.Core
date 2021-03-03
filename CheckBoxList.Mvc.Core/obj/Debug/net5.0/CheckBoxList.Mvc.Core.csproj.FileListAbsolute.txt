@@ -9,3 +9,4 @@ C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.
 C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.dll
 C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\ref\CheckBoxList.Mvc.Core.dll
 C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.pdb
+C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\obj\Debug\net5.0\CheckBoxList.Mvc.Core.csprojAssemblyReference.cache

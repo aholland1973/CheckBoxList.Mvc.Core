@@ -18,6 +18,6 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Debug\net5.0\CheckBoxList.Mvc.Core.dll" target="lib\net5.0\CheckBoxList.Mvc.Core.dll" />
+    <file src="C:\Users\andrew holland\Downloads\GitHub\CheckBoxList.Mvc.Core\CheckBoxList.Mvc.Core\bin\Release\net5.0\CheckBoxList.Mvc.Core.dll" target="lib\net5.0\CheckBoxList.Mvc.Core.dll" />
   </files>
 </package>
